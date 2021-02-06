@@ -79,7 +79,7 @@ h2 {
 }
 
 .float-left {
-    /*pushes first section to the left*/
+    /*pushes first & third section to the left*/
     float: left;
     margin-right: 25px;
 }
